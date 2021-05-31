@@ -1,4 +1,4 @@
-package kodlama.io.northwind.core.utilities.result;
+package kodlama.io.northwind.core.utilities.results;
 
 public class Result {
 	private boolean success;
